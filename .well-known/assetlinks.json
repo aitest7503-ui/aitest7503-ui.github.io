@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ludoraja.game",
+      "sha256_cert_fingerprints": [
+        "D8:FB:78:D4:9B:41:E9:83:29:50:CE:02:4D:E6:CE:5C:0F:12:BF:D0:0C:BA:55:A9:F4:A7:9F:2B:3D:36:C1:25"
+      ]
+    }
+  }
+]
